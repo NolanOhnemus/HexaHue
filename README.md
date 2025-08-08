@@ -1,5 +1,6 @@
 # HexaHue
 
+![Menu Screenshot](https://github.com/NolanOhnemus/HexaHue/blob/main/Menu.png)
 ![Gameplay Screenshot](https://github.com/NolanOhnemus/HexaHue/blob/main/Screenshot.png)
 
 ## Overview
