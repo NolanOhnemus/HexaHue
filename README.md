@@ -19,7 +19,7 @@ Create a fully featured puzzle game where the player must fill each cell of a cu
 - **Grid Customization**:
   - Adjustable grid sizes for increased replayability and difficulty scaling.
 - **Difficulty Levels**:
-  - Multiple modes (e.g., Easy, Medium, Hard) that vary puzzle complexity and color count.
+  - Multiple modes (e.g., Easy, Medium, Hard) that vary puzzle complexity and hint count.
 - **Polished User Interface**:
   - Main menu system, settings, restart functionality, and game-over screens.
 - **Replayability Enhancements**:
