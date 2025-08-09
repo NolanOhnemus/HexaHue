@@ -15,7 +15,7 @@ Create a fully featured puzzle game where the player must fill each cell of a cu
 
 - **Color Deduction Gameplay**:
   - Fill each tile with the correct color using logic based on surrounding hints.
-  - Lose a life with each incorrect guess—limited to three per game.
+  - Lose a life with each incorrect guess, limited to three per game.
 - **Grid Customization**:
   - Adjustable grid sizes for increased replayability and difficulty scaling.
 - **Difficulty Levels**:
